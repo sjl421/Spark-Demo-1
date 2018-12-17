@@ -5,7 +5,7 @@ import org.apache.spark.streaming.Seconds
 import org.apache.spark.streaming.StreamingContext
 
 /**
- * @author Administrator
+ * @author Zh1Chueng
  */
 object WordCount {
   
