@@ -9,7 +9,7 @@ object StructuredNetworkWordCount {
         .builder()
         .appName("StructuredNetworkWordCount")  
         .getOrCreate()
-        
+         
     import spark.implicits._
     
     val lines = spark.readStream
